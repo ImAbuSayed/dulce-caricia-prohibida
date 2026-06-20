@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-caricia-prohibida/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Dulce caricia prohibida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-caricia-prohibida/) |
+| **Get License** | [Official Music Licensing for Dulce caricia prohibida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-caricia-prohibida/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `fdfd6eca7e35ccf4c77bd9e7c9960513e4229c2c1e74649ea334a283886176ae` |
 | **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
